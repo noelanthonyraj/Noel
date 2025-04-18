@@ -1,7 +1,7 @@
 from django.contrib import admin
 from .models import Userdata, Qualification, MedicalHistory, Share
 
-# Register your models here.
+# Register your models here for testing.
 admin.site.register(Userdata)
 admin.site.register(Qualification)
 admin.site.register(MedicalHistory)
